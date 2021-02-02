@@ -6,8 +6,8 @@ Need Donation For next project.
 
 ## Screenshots
 <p align="center">
-<img src="./Screenshot/splash_screen.png">
-<img src="./Screenshot/main_menu.png">
+<img src="./Screenshot/Screenshot (40).png">
+<img src="./Screenshot/Screenshot (41)">
 </p>
 
 ## Donation 
